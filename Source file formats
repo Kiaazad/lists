@@ -1,0 +1,39 @@
+### layred Raster/Pixel
+> The dimention in raster files is the most important aspect.
+> some programs can open files from other programs but some layers only work in a specefic program.
+> most raster programs have vector capability. the vector layers can stretch with the artboard size.
+> photoshop files can contain illustrator files (Ai) in them.
+
+Universal Formats: tif, Tiff
+
+Photoshop: PSD, PSB, PDD, 
+Paint tool sai: sai
+Corel Painter: 
+Manga/clip studio:
+
+Single layered: PNG,jpeg, jpg, gif, BMP, 
+
+### Layred vector
+> Single layered vector files like EPS are still editable.
+
+Universal Formats: EPS, SVG
+
+Adobe illustrator: Ai
+Corel Draw: cdr
+IncScape: SVG
+
+### Video
+>video projects often depend on external files like images, videos and sounds that must be provided with the project file.
+
+Adobe primire:
+Edius:
+
+
+
+### 3D
+> 3D files often depend on textures, models and other file types that must be provided with the project file.
+
+Universal Formats:
+3D studio max:
+Maya:
+Blender:
